@@ -19,5 +19,5 @@ public class primeiroPrograma {
 
 class Livros {
 	private String nome;
-	private String npag;
+	private String number_pag;
 }
